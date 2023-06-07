@@ -1,0 +1,7 @@
+C:\Users\leonardo.ykonichi\source\repos\AulaGITHUB\AulaGITHUB\bin\Debug\AulaGITHUB.exe.config
+C:\Users\leonardo.ykonichi\source\repos\AulaGITHUB\AulaGITHUB\bin\Debug\AulaGITHUB.exe
+C:\Users\leonardo.ykonichi\source\repos\AulaGITHUB\AulaGITHUB\bin\Debug\AulaGITHUB.pdb
+C:\Users\leonardo.ykonichi\source\repos\AulaGITHUB\AulaGITHUB\obj\Debug\AulaGITHUB.csproj.AssemblyReference.cache
+C:\Users\leonardo.ykonichi\source\repos\AulaGITHUB\AulaGITHUB\obj\Debug\AulaGITHUB.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.ykonichi\source\repos\AulaGITHUB\AulaGITHUB\obj\Debug\AulaGITHUB.exe
+C:\Users\leonardo.ykonichi\source\repos\AulaGITHUB\AulaGITHUB\obj\Debug\AulaGITHUB.pdb
